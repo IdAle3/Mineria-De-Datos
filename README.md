@@ -41,7 +41,7 @@ Esto permitió trabajar con información más manejable sin perder las variables
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 El proyecto fue desarrollado principalmente utilizando:
 
